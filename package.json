@@ -27,8 +27,10 @@
   },
   "dependencies": {
     "jsdom": "^16.6.0",
+    "node-cron": "^3.0.0",
     "node-fetch": "^2.6.1",
     "pg": "^8.6.0",
-    "pool": "^0.4.1"
+    "pool": "^0.4.1",
+    "puppeteer": "^10.4.0"
   }
 }
